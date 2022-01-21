@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE02SHBP-LJ01D-10-PHSEND103-streamed-phsen_battery_voltage
-last_request: '2022-01-01T01:32:52.069602Z'
+last_request: '2022-01-21T18:16:05.824722Z'
 response: https://raw.githubusercontent.com/ooi-data/CE02SHBP-LJ01D-10-PHSEND103-streamed-phsen_battery_voltage/main/history/response.json
 status: discontinued
